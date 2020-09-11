@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163881624170",
+    "firebase_url": "https://guloadssms.firebaseio.com",
+    "project_id": "guloadssms",
+    "storage_bucket": "guloadssms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163881624170:android:47ab29a8980d15420b2013",
+        "android_client_info": {
+          "package_name": "com.example.guloadssms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163881624170-au9emvqvc48bkv80njakep25lec47ed8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guloadssms",
+            "certificate_hash": "21e515fcff6c0de635454c6012fa8e45ecb8cbde"
+          }
+        },
+        {
+          "client_id": "163881624170-ge1u2uipo7j8vnd0gptcqn50k2c8c162.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcOBTb8MMgLdOt5cvwUOu2Lt1jzjAUDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163881624170-ge1u2uipo7j8vnd0gptcqn50k2c8c162.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
